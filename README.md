@@ -42,9 +42,6 @@ Follow these steps to set up and run **Douga Play** locally:
    - Connect your device via USB or start an emulator.
    - Click the `Run` button to launch the application.
 
-          # Documentation
-```
-
 
 
 ## Contact
